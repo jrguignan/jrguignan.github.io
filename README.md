@@ -1,5 +1,3 @@
-# Mi Portafolio
- 
 # Particle Jekyll Theme
 
 ![](./particle.jpg)

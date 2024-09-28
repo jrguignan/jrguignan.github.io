@@ -1,6 +1,6 @@
 # Site settings
 title: José R. Guignan - Data Scientist
-description: José R. Guignan - Data Scientist
+description: Portafolio
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -10,7 +10,7 @@ user_description: Hola, mucho gusto. Soy un Data Scientist con una sólida forma
 user_title: Data Scientist
 email: joserguignan@gmail.com
 github_username:  jrguignan
-
+linkedin_username:  jrguignan
 
 # Google-analytics
 google-analytics:
