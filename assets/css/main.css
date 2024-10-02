@@ -8,48 +8,47 @@
 
 
 .user-projects {
-    margin-bottom: 40px;
-  }
-  
-  .project {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 20px;
-  }
-  
-  .project.alt {
-    flex-direction: row-reverse;
-  }
-  
-  .image-wrapper {
-    width: 40%;
-  }
-  
-  .image-wrapper img {
-    width: 100%;
-    height: auto;
-  }
-  
-  .contents {
-    width: 55%;
-    padding: 20px;
-  }
-  
-  .project h3 {
-    margin-top: 0;
-  }
-  
-  .project p {
-    margin-bottom: 10px;
-  }
-  
-  .project-link {
-    color: #0066cc;
-    text-decoration: none;
-  }
-  
-  .project-link:hover {
-    text-decoration: underline;
-  }
-  
+  margin-bottom: 40px;
+}
+
+.project {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.project.alt {
+  flex-direction: row-reverse;
+}
+
+.image-wrapper {
+  width: 40%;
+}
+
+.image-wrapper img {
+  width: 100%;
+  height: auto;
+}
+
+.contents {
+  width: 55%;
+  padding: 20px;
+}
+
+.project h3 {
+  margin-top: 0;
+}
+
+.project p {
+  margin-bottom: 10px;
+}
+
+.project-link {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.project-link:hover {
+  text-decoration: underline;
+}
