@@ -33,3 +33,4 @@ Este tema es software gratuito y de código abierto, distribuido bajo la Licenci
 Este tema fue parcialmente diseñado con la inspiración de estas personas:
 - [Willian Justen](https://github.com/willianjusten/will-jekyll-template)
 - [Vincent Garreau](https://github.com/VincentGarreau/particles.js/)
+- [Nathan](https://github.com/loreandstory)
