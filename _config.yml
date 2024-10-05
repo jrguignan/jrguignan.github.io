@@ -13,7 +13,8 @@ github_username:  jrguignan
 linkedin_username:  jrguignan
 
 # Google-analytics
+google-analytics: true
 google-analytics:
-  id: ""
+  id: "G-0HD9K3W8DJ"
 
 exclude: ['package.json', 'src' , 'node_modules']
